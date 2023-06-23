@@ -1,0 +1,1 @@
+Anexo la base de datos en esta misma carpeta, la DB se encuentra como pruebatest.sql
